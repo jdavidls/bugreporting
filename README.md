@@ -1,0 +1,1 @@
+# Bug reporting utilitary project
